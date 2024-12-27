@@ -1,15 +1,6 @@
 <div id="header" align="center">
-  <img src="./profile.jpeg" class="profile-image" alt="Profile Image"/>
+  <img src="./profile.jpeg" alt="Profile Image" style="width: 100px; height: 100px; border-radius: 50%; display: block; margin: 0 auto;" />
 </div>
-
-<style>
-.profile-image {
-  width: 100px;
-  border-radius: 50%; /* Creates a circular image */
-  display: block;
-  margin: 0 auto; /* Centers the image horizontally */
-}
-</style>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="30">, I'm Samnang</h1>
 <h3 align="center">A passionate llm developer</h3>
